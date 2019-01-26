@@ -21,6 +21,7 @@ Lista comand : <br>
 ###############################################################################################################################
 
 <b> getAddressTransaction </b>    <br>
+
 Parametri : <br>
 
 wallet    -------------------    "1Ko2SW124a7irn2NQJbAS12cjXTMtNNhiKgtX7"  <br>
