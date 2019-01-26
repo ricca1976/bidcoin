@@ -23,8 +23,8 @@ Lista comand :
 getAddressTransaction   
 Parametri : 
 
-wallet                    "1Ko2SW124a7irn2NQJbAS12cjXTMtNNhiKgtX7"
-txid	                    "6b948687ab03d0a13848dc6028a941897158985eba8674b4294a2905a9de1dea"
+wallet    -------------------    "1Ko2SW124a7irn2NQJbAS12cjXTMtNNhiKgtX7"
+txid	  -------------------    "6b948687ab03d0a13848dc6028a941897158985eba8674b4294a2905a9de1dea"
 
 Risposta :
 
@@ -37,8 +37,8 @@ listAddressTransactions
 
 Parametri : 
 
-wallet                   "1Ko2SW124a7irn2NQJbAS12cjXTMtNNhiKgtX7"
-count	                    "10"     ///// DEFAULT VALUE 5 
+wallet    -------------------   "1Ko2SW124a7irn2NQJbAS12cjXTMtNNhiKgtX7"
+count	  -------------------   "10"     ///// DEFAULT VALUE 5 
 
 Risposta :
 
@@ -52,8 +52,8 @@ signMessage
 
 Parametri : 
 
-signerAddress                 "1Ko2SW124a7irn2NQJbAS12cjXTMtNNhiKgtX7"
-fileHash	                     
+signerAddress    -------------------   "1Ko2SW124a7irn2NQJbAS12cjXTMtNNhiKgtX7"
+fileHash	 -------------------                   
 
 
 ###############################################################################################################################
@@ -63,7 +63,7 @@ getBlockDetails
 
 Parametri : 
 
-hash                          "0000cefb32cee23bb3983f8baad59e06bd3e2b4f88256e46a34f79f07c4291bb"
+hash       -------------------        "0000cefb32cee23bb3983f8baad59e06bd3e2b4f88256e46a34f79f07c4291bb"
 	                     
 
 
