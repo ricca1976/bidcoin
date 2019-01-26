@@ -52,7 +52,7 @@ signMessage
 
 Parametri : 
 
-signerAddress    -------------------   "1Ko2SW124a7irn2NQJbAS12cjXTMtNNhiKgtX7"
+signerAddress    -------------------   "1Ko2SW124a7irn2NQJbAS12cjXTMtNNhiKgtX7" <br> 
 fileHash	 -------------------                   
 
 
