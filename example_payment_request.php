@@ -99,7 +99,7 @@ Waiting for payment <br>
 		$.ajax({
 			type: 'POST',
 			url: 'https://youbid.click/bidapi/CALL/app.php',              //////// api call link 
-			data: '{"comand": "listAddressTransactions", "address": "'+ address_in +'", "count": '+ count +' }',     ///// parameter comand listAddressTransactions check last 10 transaction of wallet 
+			data: '{"comand": "list_transaction", "address": "'+ address_in +'", "count": '+ count +' }',     ///// parameter comand listAddressTransactions check last 10 transaction of wallet 
 			success: function(data) { 
 
 				console.log(data) ; 
