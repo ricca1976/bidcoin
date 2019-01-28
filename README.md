@@ -133,7 +133,14 @@ function getAddressBalances(){
    {"balance":974.64,"response":true}
    
    
-   
+------------------------------------------------------------------------------------------------------------------
+
+Tra i file sopra depositati troverete gli esempi di chiamate per poter integrare le funzioni . 
+
+
+Per qualsiasi info astedalvivo@gmail.com 
+
+
    
 
 
