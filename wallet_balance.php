@@ -4,7 +4,7 @@
 
 	function getAddressBalances(){
 
-			var wallet = "1Ko2SW124a7irn2NQJbAS12cjXTMtNNhiKgtX7" ;
+			var wallet = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" ;
 			var comand = "balance" ; 
 	
 			var xhr = new XMLHttpRequest();
