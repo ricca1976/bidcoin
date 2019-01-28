@@ -17,6 +17,9 @@ Comandi principali chiamata al server bidcoin . <br>
 
 Dominio : https://youbid.click/bidapi/CALL/  <br>
 
+Test Api : https://youbid.click/bidapi/test_api.php  <br>
+
+
 Lista comand : <br>
 
 
