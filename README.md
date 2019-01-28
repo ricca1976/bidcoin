@@ -69,12 +69,12 @@ function Login(){
 	}
   
   
-  RESPONSE : 
+  RESPONSE : <br>
   
-user_session	5c4ed20b69d30
-user_name	info4
-address	1as9e6TpVi3LUZsz1jJsKdjqXou4wWDpuQ2Fvs
-loggedin	true
+user_session	5c4ed20b69d30 <br>
+user_name	info4  <br>
+address	1as9e6TpVi3LUZsz1jJsKdjqXou4wWDpuQ2Fvs <br>
+loggedin	true <br>
 
 {"user_session":"5c4ed20b69d30","user_name":"info4","address":"1as9e6TpVi3LUZsz1jJsKdjqXou4wWDpuQ2Fvs","loggedin":true}
 
@@ -125,10 +125,10 @@ function getAddressBalances(){
   
   
   
-   RESPONSE : 
+   RESPONSE : <br>
    
-   balance	974.64
-   response	true
+   balance	974.64 <br>
+   response	true <br>
    
    {"balance":974.64,"response":true}
    
