@@ -2,11 +2,12 @@
 First cryptocurrency exchange fixed .
 La prima valuta virtuale a cambio fisso . 
 
-Bidcoin e' la prima valuta virtuale che elimina il rischio di cambio e garantisce l'utento di non subire alcuna perdita nella conversione. 
-Bitcoin e' basata sulla tecnologia blockchain e ha come obbiettivo di fornire un sistema sicuro e garantto , e una integrazione semplice 
-in qualsiasi sistema . 
-Attraverso la tecnologia blockchain sara' possibile effettuare e ricevere pagamenti in maniera completamente anonima e sicura , attraverso le nostre API
-sara' possibile integrare il sistema nella maggior parte delle applicazioni . 
+Bidcoin e' la prima valuta virtuale che elimina il rischio di cambio e garantisce l'utente di non subire alcuna perdita nella conversione. 
+Bitcoin e' basata sulla tecnologia blockchain e ha come obbiettivo di fornire un sistema sicuro e garantito , e una integrazione semplice in qualsiasi sistema di terze parti . 
+Attraverso la tecnologia blockchain sara' possibile effettuare e ricevere pagamenti in maniera completamente anonima e sicura , attraverso le nostre API , l'integrazione alla blockchain risultera' di estrema semplicita'.
+
+
+
 
 API 1.0 
 
