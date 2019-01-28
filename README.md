@@ -1,4 +1,4 @@
-# bidcoin
+# bidcoin blockchain Currency 
 First cryptocurrency exchange fixed .
 La prima valuta virtuale a cambio fisso . 
 
