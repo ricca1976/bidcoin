@@ -20,6 +20,9 @@ Dominio : https://youbid.click/bidapi/CALL/  <br>
 Test Api : https://youbid.click/bidapi/test_api.php  <br>
 
 
+Web Wallet : https://bidcoin.click <br>
+
+
 Lista comand : <br>
 
 
