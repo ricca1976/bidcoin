@@ -144,6 +144,13 @@ Tra i file sopra depositati troverete gli esempi di chiamate per poter integrare
 Per qualsiasi info astedalvivo@gmail.com 
 
 
+
+
+<br>
+
+<img src = "https://youbid.click/images/xmobile-app.png.pagespeed.ic.Vlc-Wab469.png" >
+
+
    
 
 
